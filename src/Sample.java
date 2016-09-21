@@ -1,6 +1,6 @@
 
 public class Sample {
-	// Sample classs
+	// Sample classs 1
 	String name;
 	private Sample(String name){
 		this.name=name;
